@@ -1,3 +1,5 @@
+"use strict";
+
 // 1.
 let x = 5;
 while(true) {
